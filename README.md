@@ -1,4 +1,4 @@
-# GoogleSignIn
+# GoogleOAut
 Simple Google Sign-In Android Application
 
 ```
