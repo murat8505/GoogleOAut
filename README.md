@@ -1,4 +1,4 @@
-# GoogleSignInDemo
+# GoogleSignIn
 Simple Google Sign-In Android Application
 
 ```
